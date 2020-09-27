@@ -7,17 +7,26 @@ const Home = () => {
     <div className={styles.container}>
       <Head>
         <title>pgp.philihp.com</title>
-        <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no"
+        />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>pgp.philihp.com</h1>
 
         <p className={styles.description}>
-          This is a statically hosted PGP keyserver.
+          This is a PGP keyserver built in Next.js
         </p>
 
         <div className={styles.grid}>
+          <a href="https://philihp.com/pgp" className={styles.card}>
+            <h3>Query &rarr;</h3>
+            It only responds to queries for my key, but if you want my key then
+            that&apos;s cool.
+          </a>
+
           <a
             href="https://github.com/philihp/pgp.philihp.com"
             className={styles.card}
@@ -25,18 +34,12 @@ const Home = () => {
             <h3>Source &rarr;</h3>
             It&apos;s open source so you can learn from my mistakes.
           </a>
-
-          <a href="https://philihp.com/pgp" className={styles.card}>
-            <h3>Query &rarr;</h3>
-            It only responds to queries for my key, but if you want my key then
-            that&apos;s cool.
-          </a>
         </div>
       </main>
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://vercel.com?utm_source=pgp.philihp.com&utm_campaign=oss"
           target="_blank"
           rel="noopener noreferrer"
         >

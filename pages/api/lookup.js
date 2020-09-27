@@ -304,6 +304,7 @@ BGi8YF1E6mwPkbzhPBvM8Z6p
 `
 
 export default (_req, res) => {
+  // see https://keys.openpgp.org/about/api for fun things you cant do lol
   res.statusCode = 200
   res.setHeader('Content-Type', 'text/plain')
   res.end(key)
