@@ -5,7 +5,4 @@ module.exports = {
       destination: '/api/lookup',
     },
   ],
-  serverRuntimeConfig: {
-    PROJECT_ROOT: __dirname,
-  },
 }
