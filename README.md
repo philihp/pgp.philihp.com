@@ -1,6 +1,6 @@
 # pgp.philihp.com
 
-This is a PGP Keyserver built in Next.js, and satisfying a subset of the HKP interface. You can query it with
+This is a PGP Keyserver built in Next.js, and satisfying a minimum subset of the HKP interface so you can query it with
 
 ```bash
 ❯ gpg --keyserver hkps://pgp.philihp.com --recv-keys 9600F122
