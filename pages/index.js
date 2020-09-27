@@ -28,8 +28,8 @@ const Home = () => {
 
           <a href="https://philihp.com/pgp" className={styles.card}>
             <h3>Query &rarr;</h3>
-            It only responds to queries for my key, and keys I keep on my
-            keyring.
+            It only responds to queries for my key, but if you want my key then
+            that&apos;s cool.
           </a>
         </div>
       </main>
