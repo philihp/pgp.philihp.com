@@ -43,7 +43,7 @@ const Stats = () => {
         </tr>
         <tr>
           <td>Debug level:</td>
-          <td>4444</td>
+          <td>0</td>
         </tr>
       </table>
 
