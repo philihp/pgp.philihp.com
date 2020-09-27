@@ -51,14 +51,7 @@ const Stats = () => {
         <tr valign="top">
           <td>
             <h2>Gossip Peers</h2>
-            <table summary="Gossip Peers">
-              <tr>
-                <td>keys.kfwebs.net 11370</td>
-              </tr>
-              <tr>
-                <td>keys2.kfwebs.net 11370</td>
-              </tr>
-            </table>
+            <table summary="Gossip Peers"></table>
           </td>
           <td>
             <h2>Outgoing Mailsync Peers</h2>
