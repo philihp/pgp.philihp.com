@@ -3,7 +3,7 @@
 This is a PGP Keyserver built in Next.js, and satisfying a subset of the HKP interface. You can query it with
 
 ```bash
-❯ gpg --keyserver hkps://philihp.com --recv-keys 9600F122
+❯ gpg --keyserver hkps://pgp.philihp.com --recv-keys 9600F122
 ```
 
 ## Setup
