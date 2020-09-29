@@ -1,3 +1,6 @@
+![License](https://img.shields.io/npm/l/openskill)
+
+
 # pgp.philihp.com
 
 This is a PGP Keyserver built in Next.js, and satisfying a minimum subset of the HKP interface so you can query it with
