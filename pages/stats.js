@@ -51,11 +51,11 @@ const Stats = () => {
         <tr valign="top">
           <td>
             <h2>Gossip Peers</h2>
-            <table summary="Gossip Peers"></table>
+            <table summary="Gossip Peers"/>
           </td>
           <td>
             <h2>Outgoing Mailsync Peers</h2>
-            <table summary="Mailsync Peers"></table>
+            <table summary="Mailsync Peers"/>
           </td>
         </tr>
       </table>
