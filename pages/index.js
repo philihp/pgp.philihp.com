@@ -1,5 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
+import Image from 'next/image'
 
 const Home = () => {
   return (
@@ -38,7 +39,7 @@ const Home = () => {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
+          <Image src="/vercel.svg" alt="Vercel Logo" className="logo" />
         </a>
       </footer>
       <style jsx>
