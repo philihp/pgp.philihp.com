@@ -1,7 +1,5 @@
 [![Dependencies](https://img.shields.io/librariesio/github/philihp/pgp.philihp.com)](https://libraries.io/github/philihp/pgp.philihp.com)
-![Tests](https://github.com/philihp/pgp.philihp.com/workflows/tests/badge.svg)
-[![Coverage Status](https://coveralls.io/repos/github/philihp/pgp.philihp.com/badge.svg?branch=main)](https://coveralls.io/github/philihp/pgp.philihp.com?branch=main)
-![License](https://img.shields.io/npm/l/pgp.philihp.com)
+[![Keybase](https://badgen.net/keybase/pgp/philihp)](https://keybase.io/philihp)
 
 # pgp.philihp.com
 
