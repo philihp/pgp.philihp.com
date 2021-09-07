@@ -1,5 +1,6 @@
 [![Dependencies](https://img.shields.io/librariesio/github/philihp/pgp.philihp.com)](https://libraries.io/github/philihp/pgp.philihp.com)
 [![Keybase](https://badgen.net/keybase/pgp/philihp)](https://keybase.io/philihp)
+![Github Build](https://badgen.net/github/status/philihp/pgp.philihp.com)
 
 # pgp.philihp.com
 
