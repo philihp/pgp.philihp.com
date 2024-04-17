@@ -1,8 +1,7 @@
 import get from './get'
 import stats from './stats'
 
-export default async (req, res) => {
-  // console.log({ query: req.query, path: req.path })
+const lookup = async (req, res) => {
   switch (req.query?.op) {
     case 'stats':
       return stats(req, res)
@@ -12,3 +11,4 @@ export default async (req, res) => {
       return res.status(405).end()
   }
 }
+export default lookup
