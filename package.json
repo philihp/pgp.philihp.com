@@ -20,7 +20,7 @@
     "@philihp/eslint-config": "6.1.0",
     "eslint-config-next": "14.2.7",
     "husky": "9.1.5",
-    "lint-staged": "15.2.9",
+    "lint-staged": "15.2.10",
     "prettier": "3.3.3"
   },
   "lint-staged": {
