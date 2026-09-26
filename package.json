@@ -21,7 +21,7 @@
     "eslint-config-next": "14.2.35",
     "husky": "9.1.7",
     "lint-staged": "17.5.1",
-    "prettier": "3.9.8"
+    "prettier": "3.9.9"
   },
   "lint-staged": {
     "src/**/*.{js,jsx,json}": [
